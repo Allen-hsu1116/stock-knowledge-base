@@ -99,8 +99,8 @@
 
 知識庫透過 Quartz v4 部署到 GitHub Pages。
 
-- **Repo**: https://github.com/Allen-hsu1116/stock-knowledge-base
-- **網站**: https://allen-hsu1116.github.io/stock-knowledge-base/
+- **Repo**: https://github.com/Allen-hsu1116/stock-knowledge-site
+- **網站**: https://allen-hsu1116.github.io/stock-knowledge-site/
 - **本地 Quartz 專案**: `~/.openclaw/workspace/stock-quartz-site/`
 - **同步腳本**: `stock-quartz-site/sync-wiki-to-quartz.sh`
 - **部署方式**: Push 到 main → GitHub Actions 自動 build + deploy
