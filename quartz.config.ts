@@ -11,7 +11,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "zh-TW",
-    baseUrl: "stock-kb.pages.dev",
+    baseUrl: "allen-hsu1116.github.io/stock-knowledge-base",
     ignorePatterns: ["private", "templates", ".obsidian", "SCHEMA.md", "SKILL.md"],
     defaultDateType: "modified",
     theme: {
