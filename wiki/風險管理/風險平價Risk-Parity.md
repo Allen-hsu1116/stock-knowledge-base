@@ -42,5 +42,5 @@
 
 - [[類股輪動策略]]
 - [[美林投資時鐘景氣循環四階段]]
-- [[風險預算Risk-Budgeting]]
-- [[相關性風險Correlation-Risk]]
+- [[風險預算Risk Budgeting]]
+- [[集中度風險Concentration Risk]]

@@ -41,5 +41,5 @@
 - [[選擇權四大基本策略]]
 - [[隱含波動率IV判讀]]
 - [[Theta時間衰減實戰]]
-- [[Delta Neutral四階段調整]]
-- [[Gamma Scalping動態調整]]
+- [[選擇權Greeks希臘字母]]
+- [[選擇權Greeks希臘字母]]
