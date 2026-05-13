@@ -1,37 +1,37 @@
 {
-  "lastRun": "2026-05-11T14:31:00+08:00",
+  "lastRun": "2026-05-14T03:53:00+08:00",
   "cronId": "54cdfc49-78be-4e7b-a0a4-b1383d39e2a5",
-  "topic": "威科夫方法進階：吸籌派發五階段判讀",
-  "category": "技術分析",
-  "dayOfWeek": "週一",
+  "topic": "動能策略實戰回測與選股方法",
+  "category": "操作策略",
+  "dayOfWeek": "週四",
   "sources": [
-    "https://www.wyckoffanalytics.com/wyckoff-method-mandarin/",
-    "https://www.gate.com/learn/articles/the-wyckoff-method-explained/413",
-    "https://edgetradertw.com/成交量分佈分析-volume-profile-如何用於交易中/"
+    "https://nccubr.nccu.edu.tw/articles/30",
+    "https://www.tejwin.com/insight/tquant-lab-動能策略/",
+    "https://www.esunsec.com.tw/article/post/210"
   ],
   "wikiAdded": [
-    "技術分析/威科夫方法進階吸籌派發五階段判讀.md"
+    "操作策略/動能策略實戰回測與選股方法.md"
   ],
   "wikiUpdated": [
-    "技術分析/威科夫方法.md",
-    "技術分析/Volume-Profile成交量分佈分析.md",
+    "操作策略/動能交易策略.md",
+    "操作策略/台灣持續性動能策略Momentum-Persistency.md",
     "INDEX.md"
   ],
   "rawAdded": [
-    "raw/2026-05-11/威科夫方法進階吸籌派發五階段-WyckoffAnalytics.md",
-    "raw/2026-05-11/威科夫方法進階吸籌派發五階段-GateLearn.md",
-    "raw/2026-05-11/成交量分佈分析Volume-Profile進階實戰-EdgeTrader.md"
+    "raw/2026-05-14/動能效應為何在台灣股市失效-持續性動能策略-政大商業評論.md",
+    "raw/2026-05-14/動能策略回測市值前200大選股-TEJ.md",
+    "raw/2026-05-14/短線動能突破飆股選股法-玉山證券.md"
   ],
-  "commit": "1a36ab0",
+  "commit": "898079c",
   "status": "completed",
-  "lastLearningDate": "2026-05-12",
-  "learningTopic": "週二基本面分析-Altman-Z-Score破產預測模型",
-  "learningTime": "2026-05-12T21:31:00+08:00",
-  "sessionsToday": 1,
+  "lastLearningDate": "2026-05-14",
+  "learningTopic": "週四操作策略-動能策略實戰回測與選股方法",
+  "learningTime": "2026-05-14T03:53:00+08:00",
+  "sessionsToday": 3,
   "topicsCovered": [
-    "Altman-Z-Score破產預測模型",
-    "Z-Score公式三版本",
-    "破產風險三區間判讀",
-    "Z-Score與Beneish-M-Score交叉驗證"
+    "TEJ動能策略回測績效",
+    "玉山證券帶量突破即時選股",
+    "持續性動能策略政大研究",
+    "動能突破進場出場策略"
   ]
 }
