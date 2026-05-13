@@ -1,0 +1,37 @@
+{
+  "lastRun": "2026-05-11T14:31:00+08:00",
+  "cronId": "54cdfc49-78be-4e7b-a0a4-b1383d39e2a5",
+  "topic": "威科夫方法進階：吸籌派發五階段判讀",
+  "category": "技術分析",
+  "dayOfWeek": "週一",
+  "sources": [
+    "https://www.wyckoffanalytics.com/wyckoff-method-mandarin/",
+    "https://www.gate.com/learn/articles/the-wyckoff-method-explained/413",
+    "https://edgetradertw.com/成交量分佈分析-volume-profile-如何用於交易中/"
+  ],
+  "wikiAdded": [
+    "技術分析/威科夫方法進階吸籌派發五階段判讀.md"
+  ],
+  "wikiUpdated": [
+    "技術分析/威科夫方法.md",
+    "技術分析/Volume-Profile成交量分佈分析.md",
+    "INDEX.md"
+  ],
+  "rawAdded": [
+    "raw/2026-05-11/威科夫方法進階吸籌派發五階段-WyckoffAnalytics.md",
+    "raw/2026-05-11/威科夫方法進階吸籌派發五階段-GateLearn.md",
+    "raw/2026-05-11/成交量分佈分析Volume-Profile進階實戰-EdgeTrader.md"
+  ],
+  "commit": "1a36ab0",
+  "status": "completed",
+  "lastLearningDate": "2026-05-12",
+  "learningTopic": "週二基本面分析-Altman-Z-Score破產預測模型",
+  "learningTime": "2026-05-12T21:31:00+08:00",
+  "sessionsToday": 1,
+  "topicsCovered": [
+    "Altman-Z-Score破產預測模型",
+    "Z-Score公式三版本",
+    "破產風險三區間判讀",
+    "Z-Score與Beneish-M-Score交叉驗證"
+  ]
+}
