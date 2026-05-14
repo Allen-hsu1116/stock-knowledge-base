@@ -458,6 +458,7 @@
 - [[風險管理/回測框架與偏差防範Backtesting-Framework-and-Bias-Prevention|回測框架與偏差防範]] - 回測是驗證策略的必要手段也是自我欺騙的溫床，防範前瞻偏差和生存者偏差比跑出漂亮績效更重要
 - [[風險管理/財務槓桿風險管理Leverage-Risk-Management|財務槓桿風險管理 Leverage Risk Management]] - 借錢放大獲利也放大虧損——槓桿是雙面刃，控制槓桿就是控制生存
 - [[風險管理/凱利公式部位最佳化Kelly-Criterion-Position-Sizing|凱利公式部位最佳化 Kelly Criterion]] - 計算最佳下注比例的數學公式——一般形式處理部分損失、連續形式應用股票市場、Half Kelly是實戰最佳起點
+- [[風險管理/部位控制2%法則Position-Sizing-2-Percent-Rule|部位控制2%法則 Position Sizing 2% Rule]] - 單筆最大虧損不超過總資金2%的風控基石，四步計算法從風險反推部位，6%法則雙重保護，與凱利公式互為防守底線與進攻上限
 - [[風險管理/最適f理論Optimal-f-Position-Sizing|最適f理論 Optimal f Position Sizing]] - Kelly的實戰版，用歷史交易損益序列計算最適部位比例，最大單筆虧損是錨點，Secure Fraction是安全閥
 - [[風險管理/回測到實盤落差與上線SOP|回測到實盤落差與上線SOP]] - 回測績效好≠實盤績效好，215個策略平均衰退73%，用半數資金起步的五步上線SOP是生存智慧
 - [[風險管理/市場情緒週期與反脆弱交易系統Market-Sentiment-Cycle-and-Antifragile-System|市場情緒週期與反脆弱交易系統 Market Sentiment Cycle & Antifragile System]] - 市場情緒像鐘擺從懷疑擺到狂喜再從恐慌擺到絕望，讀懂情緒週期才能利用他人情緒而非被吞噬，反脆弱交易系統讓你在混亂中反而更強大
@@ -534,6 +535,10 @@
 - [[每日分析/2026-05-13|2026-05-13 每日分析]] - 推薦 10 檔 (2026-05-13)
 
 **統計**
-- 文章數：403
+- 文章數：404
 - 產業地圖：5 個題材、28 家公司
 - 最後更新：2026-05-14
+
+## 每日分析
+
+- [[每日分析/2026-05-14|2026-05-14 每日分析]] - 推薦 10 檔 (2026-05-14)
