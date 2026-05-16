@@ -160,6 +160,8 @@ MFI = (最高價 - 最低價) / 成交量，與成交量結合判斷市場真實
 
 ### Gator Oscillator（蓋特震盪指標）
 
+詳見 [[Gator-Oscillator蓋特震盪指標]]
+
 - 多頭趨勢：紅柱成長>藍柱→短期動能強
 - 空頭趨勢：藍柱變深>紅柱→長期壓制明顯
 
@@ -177,6 +179,8 @@ MFI = (最高價 - 最低價) / 成交量，與成交量結合判斷市場真實
 - [[鱷魚線Alligator-Indicator]]
 - [[威廉碎形Williams-Fractal]]
 - [[Awesome-Oscillator動能震盪指標]]
+- [[AC加速震盪指標Acceleration-Deceleration-Oscillator]]
+- [[Gator-Oscillator蓋特震盪指標]]
 - [[MACD指標實戰判讀]]
 - [[RSI相對強弱指標]]
 - [[背離Divergence進階實戰]]
@@ -190,3 +194,6 @@ MFI = (最高價 - 最低價) / 成交量，與成交量結合判斷市場真實
 - [混沌交易法全攻略：比爾威廉指標教學與實戰應用](../raw/2026-05-11/Bill-Williams混沌交易法五維系統-CashbackIsland.md)
 - [混沌操作法五階段 - MBA智庫百科](../raw/2026-05-11/Bill-Williams混沌操作法五階段-MBA智库.md)
 - [鱷魚線四階段進場策略 - EBC金融集團](../raw/2026-05-11/鱷魚線Alligator四階段進場策略-EBC.md)
+- [Fractals trading and how to use the Alligator - Tradeciety](https://tradeciety.com/fractals-trading-use-alligator-williams-chaos-theory)
+- [The Chaos Theory of Bill Williams - FBS](https://fbs.com/fbs-academy/trading-tutorials/trading-handbook/bill-williams-s-theory)
+- [鱷魚線Alligator指標與碎形交易](../raw/2026-05-16/鱷魚線Alligator指標與碎形交易.md)
