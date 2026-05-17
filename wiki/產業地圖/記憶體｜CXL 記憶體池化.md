@@ -28,7 +28,7 @@
 | 公司 | 代號 | 市場定位 | 關聯度 | 核心產品 | 技術重心 |
 |------|------|----------|--------|----------|----------|
 | **智原** | 3035 | 🟡 重要供應商 CXL IP 與 ASIC 平台 | 高 | ASIC 設計平台、IP 授權、CXL IP（開發中） | ASIC 設計服務領先、CXL IP 授權布局 |
-| **譜瑞-KY** | 4966 | 🟡 重要供應商 CXL Retimer IC 供應商 | 高 | CXL Retimer IC、PCIe Retimer、DisplayPort IC | CXL Retimer IC 技術領先、PCIe Gen5/Gen6 Retimer 量產 |
+| **致新科技** | 4966 | 🟡 重要供應商 CXL Retimer IC 供應商 | 高 | CXL Retimer IC、PCIe Retimer、DisplayPort IC | CXL Retimer IC 技術領先、PCIe Gen5/Gen6 Retimer 量產 |
 
 ### 🔍 智原重點摘要
 - **市場定位**：🟡 重要供應商
@@ -37,7 +37,7 @@
 - CXL IP 授權布局
 - AI ASIC NPU 平台
 
-### 🔍 譜瑞-KY重點摘要
+### 🔍 致新科技重點摘要
 - **市場定位**：🟡 重要供應商
 - **籌碼標籤**：foreign_net_buy、trust_net_buy
 - CXL Retimer IC 技術領先
