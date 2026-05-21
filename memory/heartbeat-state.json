@@ -1,11 +1,14 @@
 {
-  "lastLearningDate": "2026-05-15",
-  "lastLearningTime": "22:08",
-  "learningTopic": "風險管理",
-  "dayOfWeek": "Friday",
+  "lastLearningDate": "2026-05-19",
+  "lastLearningTime": "07:05",
+  "learningTopic": "基本面分析",
+  "dayOfWeek": "Tuesday",
+  "sessionsToday": 2,
   "topicsCovered": [
-    "策略容量Strategy-Capacity",
-    "因子衰退Factor-Decay（更新來源）"
+    "毛利率分析實戰判讀",
+    "流動比率與速動比率實戰判讀",
+    "利息保障倍數實戰判讀",
+    "長期負債與短期負債結構分析"
   ],
   "weeklyTopics": {
     "Monday": "技術分析",
