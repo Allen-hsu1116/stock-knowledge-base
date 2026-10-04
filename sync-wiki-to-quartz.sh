@@ -20,6 +20,7 @@ rsync -av --delete \
   --exclude='.obsidian' \
   --exclude='templates' \
   --exclude='private' \
+  --exclude='YouTube頻道' \
   "$WIKI_DIR/" "$QUARTZ_DIR/content/"
 
 echo "✅ 同步完成"
